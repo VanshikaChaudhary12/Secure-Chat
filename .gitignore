@@ -34,3 +34,14 @@ attachments/
 # Database
 *.db
 *.sqlite
+
+# Git portable
+git-portable.exe
+git-bash.exe
+git-cmd.exe
+bin/
+usr/
+mingw64/
+cmd/
+dev/
+etc/
