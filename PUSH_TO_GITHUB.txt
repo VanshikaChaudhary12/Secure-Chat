@@ -1,0 +1,26 @@
+GitHub CLI installed successfully!
+
+To push your code to GitHub, follow these steps:
+
+1. Open Command Prompt or PowerShell
+2. Navigate to your project:
+   cd "c:\linked list\secure-chat"
+
+3. Login to GitHub:
+   gh auth login
+   
+   - Select: GitHub.com
+   - Select: HTTPS
+   - Authenticate with browser: Y
+   - Follow browser instructions
+
+4. Push your code:
+   gh repo sync
+   
+   OR use git directly:
+   git push -u origin main --force
+
+Your repository is ready at:
+https://github.com/VanshikaChaudhary12/Secure-Chat
+
+All files are committed and ready to push!
