@@ -1,0 +1,15 @@
+Git is not installed. Follow these steps:
+
+1. Download Git from: https://git-scm.com/download/win
+2. Install with default settings
+3. Open Command Prompt in this folder
+4. Run these commands:
+
+git init
+git add .
+git commit -m "Initial commit: Secure Chat with E2E encryption"
+git branch -M main
+git remote add origin https://github.com/VanshikaChaudhary12/Secure-Chat.git
+git push -u origin main --force
+
+OR double-click push-to-github.bat after installing Git.
